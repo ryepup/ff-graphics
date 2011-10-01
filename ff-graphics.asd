@@ -5,6 +5,7 @@
   :depends-on (#:iterate
                #:alexandria
                #:vecto
+	       #:flexi-streams
                #:lispbuilder-sdl)
   :components ((:file "package")
                (:file "ff-graphics")))

@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
 (defpackage #:ff-graphics
-  (:use #:cl))
+  (:use #:cl #:iterate))
 
